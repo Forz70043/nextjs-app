@@ -100,6 +100,13 @@ a {
   text-decoration: none;
 }
 
+input {
+  min-width: 155px;
+  min-height: 25px;
+  border: none;
+  padding-top: 1px;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
